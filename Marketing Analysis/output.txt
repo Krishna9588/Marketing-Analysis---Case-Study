@@ -1,0 +1,24 @@
+Top 3 Most Profitable Products are: 
+
+PROD_NAME
+Dorito Corn Chp     Supreme 380g            40352.0
+Smiths Crnkle Chip  Orgnl Big Bag 380g      36367.6
+Smiths Crinkle Chips Salt & Vinegar 330g    34804.2
+Name: TOT_SALES, dtype: float64
+
+Top 3 Most Profitable Products list saved to 'best_seller.csv'
+
+Minimum number of transactions to be in top 10% = 7.0
+Minimum total spending a customer must have to be in top 10% = 55.8 
+
+Enter number for top most loyal customers : 20
+
+Top 20 loyal customer insights saved to 'top_20_loyal_customers.csv'
+      LYLTY_CARD_NBR              LIFESTAGE  ... TRANSACTION_COUNT  TOTAL_SPENT
+5308          162039         OLDER FAMILIES  ...                18        126.8
+5640          172032  YOUNG SINGLES/COUPLES  ...                18        120.1
+7700          230078         OLDER FAMILIES  ...                17        138.6
+3972          116181         YOUNG FAMILIES  ...                17        117.6
+306            13138         YOUNG FAMILIES  ...                17        109.0
+
+[5 rows x 5 columns]
